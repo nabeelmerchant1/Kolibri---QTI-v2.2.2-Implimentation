@@ -446,7 +446,7 @@ a workaround.
 ## Plans
 
 I am aiming for a production release of QTI.JS and certification by
-IMS in Q1 2019.  The production release will be a 100% implementation
+IMS in Q1 2022.  The production release will be a 100% implementation
 of QTI 2.2.2 (this preview/beta is already close to that) and will
 support recent versions of Chrome, Firefox, Safari, and Edge, on
 desktops and (where applicable) mobile devices.
@@ -458,5 +458,5 @@ In a future version, QTI.JS will run in a WebView within an Android
 or IOS application. (Perhaps it does already; but it is not tested.)
 
 
-Brian Mottershead<br/>
+Nabeel Merchant<br/>
 QTI.JS Developer
