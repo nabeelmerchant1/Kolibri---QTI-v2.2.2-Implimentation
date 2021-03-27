@@ -1,0 +1,9 @@
+*~
+#*
+.#*
+work/
+tmp/
+temp/
+*.tmp
+docroot
+
