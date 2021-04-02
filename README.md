@@ -459,4 +459,4 @@ or IOS application. (Perhaps it does already; but it is not tested.)
 
 
 Nabeel Merchant<br/>
-QTI.JS Developer
+Developer
