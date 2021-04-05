@@ -1,14 +1,12 @@
 # QTI.JS
 
-This is the initial "preview/beta" release of the QTI.JS Delivery
-Engine for IMS Question & Test Interoperability.  It supports
-the latest version of QTI, Version 2.2.2.
+This is the initial release of the QTI Delivery Engine for IMS Question & Test Interoperability.
+It supports the latest version of QTI, Version 2.2.2.
 
 
 ## Preview
 
-If you would like to have a no-fuss preview, the build outputs of this
-project can be seen at:
+The build outputs of this project can be seen at:
 
 <http://qtihub.org.s3-website-us-east-1.amazonaws.com>
 
@@ -18,17 +16,10 @@ the preview are almost all the QTI v2.2 examples distributed by IMS
 Global Learning Consortium, along with some other sample tests. No
 login is required, and no results will be reported anywhere.
 
-The preview is best viewed using a recent version of Google
-Chrome. There has so far not been very much testing with other
-browsers; so if you want to try a different browser, you might
-encounter problems, and almost certainly will if the browser is more
-than a couple of years old. If you run into any problems, I would
-appreciate hearing about them.
-
 
 ## Build
 
-The QTI.JS build is done with a bash script. From the directory 
+The QTI build is done with a bash script. From the directory 
 where you cloned the repository, enter the command.
 
 ```
