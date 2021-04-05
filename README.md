@@ -8,7 +8,7 @@ It supports the latest version of QTI, Version 2.2.2.
 
 The build outputs of this project can be seen at:
 
-<http://qtihub.org.s3-website-us-east-1.amazonaws.com>
+<https://nabeel-qti-delivery-engine.s3.amazonaws.com/test/index.html>
 
 This is an Amazon S3 bucket setup for static web hosting, containing
 the sample QTI assessment tests built by this project.  Included in
