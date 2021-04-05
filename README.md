@@ -187,14 +187,14 @@ resources are oblivious to QTI.JS.  For example, the following URL
 will play an *assessmentTest* on example.com without any QTI.JS
 presence at all on example.com:
 
-  http://qtihub.org/package/index.html?root=http://example.com/test.xml
+  http://example.org/package/index.html?root=http://example.com/test.xml
 
 In this URL, the QTI.JS package is on *qtihub.org* and the root of the
 QTI assessment content is on *example.com*. Possibly some of the
 resources referenced via hrefs in the *assessmentTest* are on 
 yet other servers. 
 
-(Incidentally http://qtihub.org/package/index.html is a real URL and
+(Incidentally http://example.org/package/index.html is a real URL and
 refers to an Amazon S3 bucket. You are welcome to use it for testing,
 at least for the beta/preview period. Take it easy on the hits, though.)
 
