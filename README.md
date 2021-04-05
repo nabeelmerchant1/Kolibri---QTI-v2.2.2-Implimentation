@@ -1,4 +1,4 @@
-# QTI.JS
+# Kolibri Asessment QTI
 
 This is the initial release of the QTI Delivery Engine for IMS Question & Test Interoperability.
 It supports the latest version of QTI, Version 2.2.2.
