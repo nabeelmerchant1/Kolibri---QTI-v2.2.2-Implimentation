@@ -449,5 +449,5 @@ In a future version, QTI.JS will run in a WebView within an Android
 or IOS application. (Perhaps it does already; but it is not tested.)
 
 
-Nabeel Merchant<br/>
+Nabeel Tad Merchant<br/>
 Developer
