@@ -445,8 +445,6 @@ desktops and (where applicable) mobile devices.
 I hope to deliver a QTI v3.0 version of QTI.JS as soon after the
 IMS release of v3.0 as possible.
 
-In a future version, QTI.JS will run in a WebView within an Android 
-or IOS application. (Perhaps it does already; but it is not tested.)
 
 
 Nabeel Tad Merchant<br/>
